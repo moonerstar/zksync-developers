@@ -1,6 +1,4 @@
-![image](https://github.com/moonerstar/zksync-developers/assets/88065316/b33896e9-a10d-4b13-88d1-acf000fdd19e)
 fork from https://github.com/zkSync-Community-Hub/zksync-developers
-![image](https://github.com/moonerstar/zksync-developers/assets/88065316/08be0fbc-0817-4fc0-8ecc-832f144fafce)
 
 # zkSync Developers
 
